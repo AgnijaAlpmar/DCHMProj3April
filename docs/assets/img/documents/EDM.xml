@@ -1,0 +1,428 @@
+<!-- 
+    https://sok.riksarkivet.se/nad?postid=Arkis+6ee5a1b8-9b8a-11d5-a701-0002440207bb&inc=1&prependUrl=%2fnad&vol=n&s=Balder
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/67">
+    <dc:description xml:lang="fr, sv">"Plan de la Salle des Spectacles à Drottningholm. Etage d'un bas". Akvarell på papper, 64,7 x 47,5 cm. Märkt: No 1.</dc:description>
+    <dc:date>undated</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/67</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/hQ7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 67 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/67"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 67 </dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+<!-- 
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/68">
+    <dc:description xml:lang="fr, sv">"Plan de la Salle de Spectacles à Drottningholm. Premiere etage". Akvarell på papper, 64,7 x 47,2 cm. Märkt: No 2</dc:description>
+    <dc:date>1765</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/68</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/hg7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 68 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/68"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 68</dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/69">
+    <dc:description xml:lang="fr, sv">"Facade du coté de la place au Caroussel". Akvarell på papper, 63,9 x 47,4 cm. Märkt: No 3.</dc:description>
+    <dc:date>undated</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/69</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/hw7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 69 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/69"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 69 </dc:source> 
+</edm:WebResource>
+</rdf:RDF> 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/DrhII/71">
+    <dc:description xml:lang="sv">Gafvelfacade af Theater på Drottningholm mot Malmen. Akvarell på papper, 54,6 x 37,2 cm. Märkt: No 6</dc:description>
+    <dc:date>1765</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/DrhII/71</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/iQ7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 71 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/DrhII/71"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 71 </dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/72">
+    <dc:description xml:lang="sv">	"Genomskärning af Spectacle salen uti Theaterbyggnaden på Drottningholm". Akvarell på papper, 53,7 x 37 cm. Märkt: No 7.</dc:description>
+    <dc:date>1765</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/72</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/iQ7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 72 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/72"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 72 </dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/73">
+    <dc:description xml:lang="sv">"Facade af Theaterbyggnaden på Drottningholm mot Trädgården". Akvarell på papper, 101,2 x 44,5 cm. Märkt: No 9.</dc:description>
+    <dc:date>undated</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/73</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/iw7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 73 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/73"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 73 </dc:source> 
+</edm:WebResource>
+</rdf:RDF> 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/DrhII/75">
+    <dc:description xml:lang="sv">	"Facade af gafveln til Theaterbyggnaden på Drottningholm mot Borggården". Ombyggnadsförslag appprob. den 25 april 1791. Tuschlavering på papper, 54 x 37,5 cm. Märkt: No 11.</dc:description>
+    <dc:date>1791</dc:date>
+    <dc:creator>Desprez, Louis Jean</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/DrhII/75</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/jQ7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 75 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/DrhII/75"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 75 </dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/76">
+    <dc:description xml:lang="sv">"Facade af Theaterbyggnaden på Drottningholm mot Trädgården". Tuschlavering på papper, 54 x 37,5 cm. Märkt: No 12. Enligt Wohlin, a.a. s 198, ritad av Jean Louis Desprez 1791. Desprez, utställn.-kat., Nationalmuseum 1992, nr 107; Solen och Nordstjernan, katalog nr 663.</dc:description>
+    <dc:date>1791</dc:date>
+    <dc:creator>Jean Louis Desprez</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/76</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/jg7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 76 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/DrhII/76"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 76 </dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/77">
+    <dc:description xml:lang="sv">"Gafvelfacade af Theaterbyggnaden på Drottningholm mot Malmen". Tuschlavering på papper, 54 x 37,5 cm. Märkt: No 13.</dc:description>
+    <dc:date>undated</dc:date>
+    <dc:creator>Jean Louis Desprez</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/77</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/jw7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 77 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/77"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 77 </dc:source> 
+</edm:WebResource>
+</rdf:RDF>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/78">
+    <dc:description xml:lang="sv">"Genomskärning och plan till Teatern. Tuschritning (delvis färglagd) på papper, 53,5 x 37,8cm.</dc:description>
+    <dc:date>undated</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/78</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/kA7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 78 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/78"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 78 </dc:source> 
+</edm:WebResource>
+</rdf:RDF> 
+-->

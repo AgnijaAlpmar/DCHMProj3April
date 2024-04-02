@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:edm="http://www.europeana.eu/schemas/edm/"
+xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ore="http://www.openarchives.org/ore/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<edm:ProvidedCHO rdf:about="#SE/RA/566/Drh II/78">
+    <dc:description xml:lang="sv">"Genomskärning och plan till Teatern. Tuschritning (delvis färglagd) på papper, 53,5 x 37,8cm.</dc:description>
+    <dc:date>undated</dc:date>
+    <dc:creator>Adelcrantz, Carl Fredrik</dc:creator>
+    <edm:type>IMAGE</edm:type>
+    <dc:format>paper</dc:format>  
+    <dc:identifier>SE/RA/566/Drh II/78</dc:identifier>
+    <dcterms:spatial rdf:resource="https://sok.riksarkivet.se/arkiv/kA7bRegRrH6d0G02H087k3"/>
+    <dc:source>Riksarkivet, 566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 78 </dc:source>  
+</edm:ProvidedCHO>
+
+<ore:Aggregation rdf:about="The link to the website hosting the digital derivative">
+    <edm:aggregatedCHO rdf:resource="#U#SE/RA/566/Drh II/78"/>
+    <edm:dataProvider>National Archives of Sweden (Riksarkivet)</edm:dataProvider>
+    <edm:provider> Organisation hosting the website, containing the digital derivative</edm:provider>
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <edm:isShownAt rdf:resource="Link to the website hosting the digital derivative"/>
+    <edm:isShownBy rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/>
+    <edm:object rdf:resource="Direct link to the the digital derivative (eg. picture in .jpg format)"/> 
+</ore:Aggregation>
+
+<edm:WebResource rdf:about="The link to the website hosting the digital derivative">
+    <edm:rights rdf:resource="https://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:created>2023-0321</dcterms:created>
+    <dc:source>566 Kartor och ritningar i Slottsarkivet 1700t - 1900t, Drh II Drottningholm, Ritningar m.m., Volym 78 </dc:source> 
+</edm:WebResource>
+</rdf:RDF> 
